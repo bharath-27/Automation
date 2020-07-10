@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b69928-b677-48b9-b876-e13f8c678e3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dpL3HmxwvNpZg7APwCoKpCpG3K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_tc001">
+    <configuration name="Config_Reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EndtoEndAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Library" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Library/Config_Reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Intitiate_driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EndtoEndAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base_Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base_Files/Intitiate_driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_tc001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EndtoEndAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case_Folder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_Case_Folder/test_tc001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_tc001" />
+        <item itemvalue="Python.Intitiate_driver" />
+        <item itemvalue="Python.Config_Reader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b69928-b677-48b9-b876-e13f8c678e3f" name="Default Changelist" comment="" />
+      <created>1593116886069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593116886069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" width="1071" height="751" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593118681450">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" width="1071" height="751" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593118681450" />
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594404551589">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1594404551589" />
+    <state x="507" y="216" key="FileChooserDialogImpl" timestamp="1594222121086">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="507" y="213" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1593118308145" />
+    <state x="507" y="216" key="FileChooserDialogImpl/0.23.1440.814@0.23.1440.814" timestamp="1594222121086" />
+    <state width="1440" height="213" key="GridCell.Tab.0.bottom" timestamp="1594404622381">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593120550021" />
+    <state width="1440" height="213" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1593188951161" />
+    <state width="1440" height="213" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1593615598098" />
+    <state width="1440" height="213" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1593437441419" />
+    <state width="1440" height="213" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1594404622381" />
+    <state width="1440" height="213" key="GridCell.Tab.0.center" timestamp="1594404622379">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593120550018" />
+    <state width="1440" height="213" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1593188951160" />
+    <state width="1440" height="213" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1593615598097" />
+    <state width="1440" height="213" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1593437441418" />
+    <state width="1440" height="213" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1594404622379" />
+    <state width="1440" height="213" key="GridCell.Tab.0.left" timestamp="1594404622378">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593120550017" />
+    <state width="1440" height="213" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1593188951159" />
+    <state width="1440" height="213" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1593615598096" />
+    <state width="1440" height="213" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1593437441417" />
+    <state width="1440" height="213" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1594404622378" />
+    <state width="1440" height="213" key="GridCell.Tab.0.right" timestamp="1594404622380">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593120550019" />
+    <state width="1440" height="213" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1593188951160" />
+    <state width="1440" height="213" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1593615598098" />
+    <state width="1440" height="213" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1593437441418" />
+    <state width="1440" height="213" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1594404622380" />
+    <state x="229" y="103" key="SettingsEditor" timestamp="1594229464103">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593120902359" />
+    <state x="229" y="103" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1594222444801" />
+    <state x="229" y="103" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1594229464103" />
+    <state x="390" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1594211424519">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="390" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1593183973976" />
+    <state x="390" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1594045383739" />
+    <state x="390" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1594211424519" />
+  </component>
+</project>
